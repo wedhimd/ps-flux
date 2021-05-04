@@ -1,20 +1,6 @@
 {
   "courses": [
     {
-      "id": 1,
-      "title": "Securing React Apps with Auth0",
-      "slug": "react-auth0-authentication-security",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
-      "id": 2,
-      "title": "React: The Big Picture",
-      "slug": "react-big-picture",
-      "authorId": 1,
-      "category": "JavaScript"
-    },
-    {
       "id": 3,
       "title": "Creating Reusable React Components",
       "slug": "react-creating-reusable-components",
@@ -72,11 +58,11 @@
     },
     {
       "id": 11,
-      "slug": "dfdsf",
-      "title": "dfdsf",
-      "authorId": 2,
-      "category": "ada",
-      "createdAt": 1619851923471
+      "slug": "cxvxc",
+      "title": "cxvxc",
+      "authorId": 1,
+      "category": "xzz",
+      "createdAt": 1620117953930
     }
   ],
   "authors": [
